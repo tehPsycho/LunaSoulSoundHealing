@@ -1,0 +1,2 @@
+/* Confirm each service with the owner before setting confirmed: true. */
+window.LUNA_CONFIG = {siteUrl: '', videoReady: false, services: [{"id": "sound-bath", "name": "Sound Bath Experiences", "confirmed": false}, {"id": "private", "name": "Private Sound Healing Sessions", "confirmed": false}, {"id": "group", "name": "Group Sound Healing", "confirmed": false}, {"id": "meditation", "name": "Meditation & Mindfulness", "confirmed": false}]};
