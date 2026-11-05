@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local Wrangler testing, then enter real values privately.
+RESEND_API_KEY=
+CONTACT_TO_EMAIL=
+CONTACT_FROM_EMAIL=
+TURNSTILE_SECRET_KEY=
+TURNSTILE_SITE_KEY=
